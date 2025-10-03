@@ -79,12 +79,6 @@ Este projeto reforçou mais os meus  conhecimentos no uso das principais tecnolo
 
 Foi aprendido que o uso do float32 no processo de normalização dos dados ao em vez do float64, se tornou o padrão, por ser observadolevando em conta eficiência de memória, velocidade computacional, precisão sufciente para treinamento para a maioria do treinamento de machine learning e compatibilidade com hardwares e bibliotecas.
 
-## Melhorias
-
-Que melhorias você fez no seu código? Ex: refatorações, melhorias de performance, acessibilidade, etc
-
-## Conclusão
-
 ## Contato
 🔹 **Autor:** Rafael Oliveira Lopes  
 🔹 **Email:** rafaellopes.dev@email.com  
